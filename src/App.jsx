@@ -1,8 +1,4 @@
-
-import './App.css'
-
-function App() {
-
+export function App() {
   return (
     <>
       <main>
@@ -13,4 +9,3 @@ function App() {
   );
 }
 
-export default App
