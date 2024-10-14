@@ -1,6 +1,6 @@
-import { Header } from "./componets/header";
-import { Links } from "./componets/links";
-import { Projects } from "./componets/projects";
+import { Header } from "./components/header";
+import { Links } from "./components/links";
+import { Projects } from "./components/projects";
 
 export function App() {
   return (
