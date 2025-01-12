@@ -3,7 +3,7 @@ import { projects } from "../dados/projects";
 
 export function Projects() {
   return (
-    <div className="sm:w-full  h-svh flex items-center justify-center bg-[url('/bg.png')] bg-cover bg-center">
+    <div className="w-full sm:h-svh flex items-center justify-center bg-[url('/bg.png')] bg-cover bg-center">
       <div className="flex flex-col items-center sm:gap-10">
             <h1 className="sm:text-4xl text-xl text-red-500">Projects</h1>
             <div className="grid sm:grid-cols-3 grid-cols-1 gap-8">
