@@ -37,7 +37,7 @@ Faça o deploy da sua aplicação em plataformas como GitHub Pages, Heroku, Verc
 
 - Nome
 - Link do GitHub
-- Link da postagem no linkedin
+- Link do LinkedIn
 - Data de Início
 - Data de Entrega
 - Link do GitHub com o Código
